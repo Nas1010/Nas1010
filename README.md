@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nas1010, I went from teaching English to coding, embracing one line of code at a time.
 - 👀 I’m interested in books and learning new skills which will take me on new journeys. 
 - 🌱 Junior Software Developer at School of Code.
-- 🛠️ Tech Stack & Tools: HTML, CSS, Javascript, Node.js, React.js, Vite, PostgreSQL, VSCode, GitHub, Express, Git, Postman, Vitest, and TDD.
+- 🛠️ Tech Stack & Tools: HTML, CSS, Javascript, Node.js, React.js, Vite, PostgreSQL, VSCode, GitHub, Express, Git, Postman, Vitest, TDD, Playwright, End-To-End Testing, Unit Testing, Typescript, Sentry.
 - 💡 Soft Skills: Collaboration, Growth Mindset, Creativity, Problem-Solving, Adaptability
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can make my tongue touch my nose. 
